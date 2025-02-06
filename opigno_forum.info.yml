@@ -10,7 +10,7 @@ dependencies:
   - group:gnode
   - opigno_learning_path:opigno_learning_path
 
-# Information added by Drupal.org packaging script on 2022-11-13
-version: '3.0.3'
+# Information added by Drupal.org packaging script on 2023-06-01
+version: '3.1.0'
 project: 'opigno_forum'
-datestamp: 1668362154
+datestamp: 1685622938
